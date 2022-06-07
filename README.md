@@ -51,3 +51,5 @@ Time series workload with Cassandra Authentication enabled:
     bin/tlp-stress run BasicTimeSeries -d '30m' -U '<username>' -P '<password>'
     **Note**: The quotes are mandatory around the username/password
     if they contain special chararacters, which is pretty common for password
+
+TEST
